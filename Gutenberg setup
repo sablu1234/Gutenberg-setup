@@ -14,7 +14,14 @@
     9.WordPress Snippets
     10.WordPress Gutenberg Component
     11.DotENV
-5. nvm install(nvm install 16.20.2)ata diye amra jekono nvm command / powershel diye install korte parbo. nvm active ar jonno(nvm use 16) windows mashine a npm install ar jonno ai sit use koro (https://docs.chocolatey.org/en-us/choco/setup/)
+5. nvm install(nvm install 20)ata diye amra jekono nvm command / powershel diye install korte parbo. nvm active ar jonno(nvm use 16) windows mashine a npm install ar jonno ai sit use koro (https://docs.chocolatey.org/en-us/choco/setup/)
   POWERshel a jeye(https://docs.chocolatey.org/en-us/choco/setup/) this site 
   copy the command:or go to the link()
   Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+    choco install command => choco install nvm -y
+    nvm age theke ase kina chech command(nvm ls)
+    amara je npm use korte chai command(nvm use 20)
+
+6. nmm install and activeate hole niser command use koro:(terminal theke plugin folser theke terminal kholo)
+  npx @wordpress/create-block test-block
