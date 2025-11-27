@@ -33,4 +33,4 @@
 terminal a current pathe ante use this command
  cd "C:\Users\SoftVence\Local Sites\gutenbarg\app\public\wp-content\plugins\test-block"
 
-  npm run command => npm run start
+  npm run/start command => npm run start
