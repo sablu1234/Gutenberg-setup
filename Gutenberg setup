@@ -34,3 +34,10 @@ terminal a current pathe ante use this command
  cd "C:\Users\SoftVence\Local Sites\gutenbarg\app\public\wp-content\plugins\test-block"
 
   npm run/start command => npm run start
+
+
+###########################################
+boler plate use korte frist file downlod kore terminal a giye => nvm use 20(jodi na thake(nvm install 20))
+ar por command => npm i
+command ata => nvm use 20(obossoi plugin ar modhe block plugin modhe dhuke korbo)
+npm run/start command => npm run start
