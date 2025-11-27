@@ -28,3 +28,7 @@
 
   command theke code a jete:(code ar por tomar plugin name)
   command => code test-block
+
+//////////////////////////////////////////////////////////////////
+terminal a current pathe ante use this command
+ cd "C:\Users\SoftVence\Local Sites\gutenbarg\app\public\wp-content\plugins\test-block"
