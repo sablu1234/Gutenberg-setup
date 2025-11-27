@@ -1,0 +1,20 @@
+1. setup wordpress
+2. Install node.js(https://nodejs.org/en/download)
+3. vs code install
+4. use some us code extention:
+  1.Install the following extensions in order to make your life a little easier.
+    1.Auto Rename Tag
+    2.Community Material Theme
+    3.ES7+ React/Redux/React-Native snippets
+    4.HTML CSS Support
+    5.Material Icon Theme
+    6.Material Theme
+    7.PHP Intelephense
+    8.Prettier - Code formatter
+    9.WordPress Snippets
+    10.WordPress Gutenberg Component
+    11.DotENV
+5. nvm install(nvm install 16.20.2)ata diye amra jekono nvm command / powershel diye install korte parbo. nvm active ar jonno(nvm use 16) windows mashine a npm install ar jonno ai sit use koro (https://docs.chocolatey.org/en-us/choco/setup/)
+  POWERshel a jeye(https://docs.chocolatey.org/en-us/choco/setup/) this site 
+  copy the command:or go to the link()
+  Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
