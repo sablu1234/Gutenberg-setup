@@ -26,5 +26,5 @@
 6. nmm install and activeate hole niser command use koro:(terminal theke plugin folser theke terminal kholo)
   npx @wordpress/create-block test-block
 
-  command theke code a jete:
+  command theke code a jete:(code ar por tomar plugin name)
   command => code test-block
